@@ -11,10 +11,20 @@ A little friendly guide - For developers at Clockwork.
 - [Coding Styles]
 - [Open Source]
 
+[Getting Started]: ./getting-started
+[Design System]: ../../../design-system
+[Macbook Setup]: ../../../mac-setup
+[Stacks]: ../../../stacks
+[Tutorials]: ../../../tutorials
+[Push to deploy (Bitbucket Pipelines)]: ../../../push-to-deploy
+[Coding Styles]: ../../../coding-styles
+[Open Source]: ./open-source
 
 * Be consistent.
 * Avoid being vague. Put a little effort.
 * Try not to violate our guidelines.
+
+---
 
 Contributing
 ======
@@ -25,18 +35,10 @@ In particular: <strong>If you have commit access, please don't merge changes wit
 waiting a week for everybody to leave feedback.</strong>
 
 [contribution guidelines]: ../../../contributing
-[Getting Started]: ./getting-started
-[Design System]: ../../../design-system
-[Macbook Setup]: ../../../mac-setup
-[Stacks]: ../../../stacks
-[Tutorials]: ../../../tutorials
-[Push to deploy (Bitbucket Pipelines)]: ../../../push-to-deploy
-[Coding Styles]: ../../../coding-styles
-[Open Source]: ./open-source
 
 Maintainers
 ======
 
 ![clockwork](./assets/logos/logo.png)
 
-This guide is maintained by [Clockwork Media](//www.clockworkmedia.co.za).
+This repository is maintained by [Clockwork Media](//www.clockworkmedia.co.za).
