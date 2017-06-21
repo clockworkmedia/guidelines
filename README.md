@@ -26,13 +26,9 @@ waiting a week for everybody to leave feedback.</strong>
 
 [contribution guidelines]: /CONTRIBUTING.md
 
-Inspired By:
-======
-
-* [Thoughtbot](https://github.com/thoughtbot/guides)!
-
 Maintainers:
 ======
 
-![clockwork](./assets/Clockwork_logo_expand-03.png)
+![clockwork](./assets/logo.png)
+
 This guide is maintained by [Clockwork Media](//www.clockworkmedia.co.za).
