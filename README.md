@@ -4,6 +4,7 @@ Guides
 ### A little friendly guide - For developers at Clockwork.
 
 * [Getting Started](./getting-started)
+    * [Setting up your Macbook](../mac-setup)
 * [Stacks](./stacks)
 * [How to](./how-to)
 * [Style](./style)
