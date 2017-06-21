@@ -4,9 +4,10 @@ Guides
 ### A little friendly guide - For developers at Clockwork.
 
 * [Getting Started](./getting-started)
-    * [Setting up your Macbook](../../mac-setup)
+    * [Setting up your Macbook](../../../mac-setup)
 * [Stacks](./stacks)
 * [How to](./how-to)
+    * [Push to deploy (Bitbucket Pipelines)](../../../push-to-deploy)
 * [Style](./style)
 * [Open Source](./open-source)
 
