@@ -9,7 +9,7 @@ Guides
 * [How to](./how-to)
     * [Push to deploy (Bitbucket Pipelines)](../../../push-to-deploy)
 * [Style](./style)
-* [Open Source](./open-source.md)
+* [Open Source](./open-source)
 
 
 ### Don't be "that guy" rules:
@@ -31,6 +31,6 @@ waiting a week for everybody to leave feedback.</strong>
 Maintainers
 ======
 
-![clockwork](./assets/logo.png)
+![clockwork](./assets/logos/logo.png)
 
 This guide is maintained by [Clockwork Media](//www.clockworkmedia.co.za).
