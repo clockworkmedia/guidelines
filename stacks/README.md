@@ -3,14 +3,14 @@ Stack
 
 ### Linters
 
-[![ESLint](/img/eslint-padded-90.png)](http://eslint.org/)
+[![ESLint](./img/eslint-padded-90.png)](http://eslint.org/)
 
 ### Package Managers
-[![Yarn](/img/yarn-padded-90.png)](https://yarnpkg.com/)
+[![Yarn](./img/yarn-padded-90.png)](https://yarnpkg.com/)
 
 ### Module Bundlers
-[![Webpack](/img/webpack-padded-90.png)](https://webpack.github.io/)
+[![Webpack](./img/webpack-padded-90.png)](https://webpack.github.io/)
 
 ### Frameworks
-[![Bootstrap](/img/bootstrap-padded-90.png)](http://getbootstrap.com/)
+[![Bootstrap](./img/bootstrap-padded-90.png)](http://getbootstrap.com/)
 
