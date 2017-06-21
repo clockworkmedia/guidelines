@@ -1,7 +1,7 @@
 Guides
 ======
 
-### A little friendly guide - for developers at Clockwork.
+### A little friendly guide - For developers at Clockwork.
 
 * [Getting Started](./getting-started)
 * [Stacks](./stacks)
