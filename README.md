@@ -16,7 +16,7 @@ Guides
 * Avoid being vague. Put a little effort.
 * Try not to violate our guidelines.
 
-Contributing:
+Contributing
 ======
 
 Please read the [contribution guidelines] before submitting a pull request.
@@ -26,7 +26,7 @@ waiting a week for everybody to leave feedback.</strong>
 
 [contribution guidelines]: /CONTRIBUTING.md
 
-Maintainers:
+Maintainers
 ======
 
 ![clockwork](./assets/logo.png)
