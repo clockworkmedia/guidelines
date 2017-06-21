@@ -2,13 +2,13 @@ Guides
 ======
 A little friendly guide - For developers at Clockwork.
 
-- [Getting Started](./getting-started)
-    - [Setting up your Macbook](../../../mac-setup)
-- [Stacks](../../../stacks)
-- [How to](./how-to)
-    - [Push to deploy (Bitbucket Pipelines)](../../../push-to-deploy)
-- [Style](./style)
-- [Open Source](./open-source)
+- [Getting Started]
+    - [Setting up your Macbook]
+- [Stacks]
+- [How to]
+    - [Push to deploy (Bitbucket Pipelines)]
+- [Style]
+- [Open Source]
 
 
 * Be consistent.
@@ -23,7 +23,14 @@ Please read the [contribution guidelines] before submitting a pull request.
 In particular: <strong>If you have commit access, please don't merge changes without
 waiting a week for everybody to leave feedback.</strong>
 
-[contribution guidelines]: /CONTRIBUTING.md
+[contribution guidelines]: ../../contributing
+[Getting Started]: ./getting-started
+[Setting up your Macbook]: ../../../mac-setup
+[Stacks]: ../../../stacks
+[How to]: ./how-to
+[Push to deploy (Bitbucket Pipelines)]: ../../../push-to-deploy
+[Style]: ./style
+[Open Source]: ./open-source
 
 Maintainers
 ======
