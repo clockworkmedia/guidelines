@@ -9,7 +9,7 @@ Guides
 * [How to](./how-to)
     * [Push to deploy (Bitbucket Pipelines)](../../../push-to-deploy)
 * [Style](./style)
-* [Open Source](./open-source)
+* [Open Source](./open-source.md)
 
 
 ### Don't be "that guy" rules:
