@@ -18,7 +18,7 @@ A little friendly guide - For developers at Clockwork.
 [Tutorials]: ../../../tutorials
 [Push to deploy (Bitbucket Pipelines)]: ../../../push-to-deploy
 [Coding Styles]: ../../../coding-styles
-[Open Source]: ./open-source
+[Contributing]: ../../../contributing
 
 * Be consistent.
 * Avoid being vague. Put a little effort.
@@ -39,6 +39,6 @@ waiting a week for everybody to leave feedback.</strong>
 Maintainers
 ======
 
-![clockwork](./assets/logos/logo.png)
+![clockwork](http://apps.clockworkmedia.co.za/github/assets/logos/logo.png)
 
 This repository is maintained by [Clockwork Media](//www.clockworkmedia.co.za).
