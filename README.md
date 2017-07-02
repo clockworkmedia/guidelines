@@ -20,9 +20,12 @@ A little friendly guide - For developers at Clockwork.
 [Coding Styles]: ../../../coding-styles
 [Contributing]: ../../../contributing
 
+
+### Points to Remember:
+
 * Be consistent.
-* Avoid being vague. Put a little effort.
-* Try not to violate our guidelines.
+* Avoid being vague ~ Put a little effort.
+* Try not to violate guidelines.
 
 ---
 
