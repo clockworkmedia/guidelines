@@ -9,7 +9,7 @@ A little friendly guide - For developers at Clockwork.
 - [Tutorials]
     - [Push to deploy (Bitbucket Pipelines)]
 - [Coding Styles]
-- [Open Source]
+- [Contributing]
 
 [Getting Started]: ./getting-started
 [Design System]: ../../../design-system
